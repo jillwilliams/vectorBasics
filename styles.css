@@ -1,0 +1,273 @@
+body {
+    font-size: 1.2rem;
+    color: magenta;
+    background-color: black;
+    letter-spacing: 5px;
+    font-family: 'Shadows Into Light', cursive;
+}
+/* TITLE: ADDING VECTORS */
+h1 {
+    text-align: center;
+    text-shadow: 1.5px 1.5px 2px aqua;
+    font-family: 'Shadows Into Light', cursive;
+}
+/* TEXT:  GOAL OF THE MODULE */
+#intro {
+    border: 0.5px magenta solid;
+    outline: 1px aqua solid;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+/* COMMON FORMATTING FOR ALL PARAGRAPHS */
+p {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.4rem; 
+    margin-left: 5%;
+    margin-right: 5%;
+}
+ol, ul {
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.4rem; 
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* Div */
+#imageSection {
+    width: 90%;
+    height: auto;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+}
+/* addition and subtraction of vectors */ 
+/* #vectorPic1{
+    width: 30%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 35%;
+    margin-right: 35%;
+    display: inline-block;
+    border: 3px black solid;
+    outline: 1px aqua solid;
+} */
+/* ANATOMY OF AN ANGLE IMAGE */
+#angleImage {
+    width:20%;
+    height: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+}
+/* SAMPLE GRAPHS: VECTOR AB */
+#vectorPic2 {
+    width: 20%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: inline-block;    
+    border: 3px black solid;
+    outline: 1px aqua solid;
+}
+/* SAMPLE GRAPHS: VECTOR CD */
+#vectorPic3 {
+    width: 20%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: inline-block;
+    border: 3px black solid;
+    outline: 1px aqua solid;
+}
+/* SAMPLE GRAPHS: VECTOR EF */
+#vectorPic4 {
+    width: 20%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: inline-block;
+    border: 3px black solid;
+    outline: 1px aqua solid;
+}
+/* SAMPLE GRAPHS: VECTOR GH */
+#vectorPic5 {
+    width: 20%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: inline-block;
+    border: 3px black solid;
+    outline: 1px aqua solid;
+}
+/* DIV BOX FORMATTING */
+#resources {
+    width: 80%;
+    height: auto;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;   
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 45px;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+/* DIV BETWEEN THE LAST EX. PROBLEM, VECTOR EF, 
+AND "LET'S BREAK DOWN OUR PROLEM" */
+#magnitude {
+    width: 90%;
+    height: auto;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
+/* TEXT BEFORE EXAMPLE #1: "EXAMPLE 1" */
+#p1 {
+    text-align: left;
+    color: aqua;
+}
+/* Div: CALCULATING THE MAGNITUDE OF A VECTOR */
+#magnitudeVector {
+    border: 3px black solid;
+    outline: 1px magenta solid;
+    color: black;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    margin-top: 55px;
+    margin-bottom: 25px;
+    text-align: center;
+    background-color: aqua;
+}
+/* IMAGE: EXAMPLE #1     CALCULATING MAGNITUDE: VECTOR AB */
+#example1solution {
+    width: 70%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-block;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;
+}
+/* IMAGE: EXAMPLE #2     CALCULATING MAGNITUDE: VECTOR CD */
+#example2solution {
+    width: 70%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-block;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;
+}
+/* Div: CALCULATING THE DIRECTION ANGLE OF A VECTOR */
+#directionAngle2 {
+    border: 3px black solid;
+    outline: 1px magenta solid;
+    color: black;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    margin-top: 55px;
+    margin-bottom: 25px;
+    text-align: center;
+    background-color: aqua;
+}
+/* IMAGE: EXAMPLE #3     CALCULATING DIRECTION ANGLE: VECTOR AB */
+#example3solution {
+    width: 70%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-block;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;
+}
+/* SOLVED TRIANGLE IMAGE UNDER EXAMPLE 3 */
+#finalAnswer3 {
+    width: 20%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: inline-block;
+    border: 3px black solid;
+    outline: 1px aqua solid;
+}
+/* IMAGE: EXAMPLE #4     CALCULATING DIRECTION ANGLE: VECTOR CB */
+#example4solution {
+    width: 70%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-block;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;
+}
+/* SOLVED TRIANGLE IMAGE UNDER EXAMPLE 4 */
+#finalAnswer4 {
+    width: 20%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: inline-block;
+    border: 3px black solid;
+    outline: 1px aqua solid;
+}
+/* GRAPH PAPER PRINTABLE */
+#great_graph {
+    width: 60%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: inline-block;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;
+}
+footer {
+    font-size: 1rem;
+    text-align: center;
+    float: bottom;
+    margin-bottom: 15px;
+}
