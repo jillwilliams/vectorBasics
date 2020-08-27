@@ -265,6 +265,11 @@ AND "LET'S BREAK DOWN OUR PROLEM" */
     border: 2px aqua solid;
     outline: 1px magenta solid;
 }
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 2px aqua solid;
+    outline: 1px magenta solid;
+}
 footer {
     font-size: 1rem;
     text-align: center;
